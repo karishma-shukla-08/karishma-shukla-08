@@ -23,7 +23,7 @@ Building user-first solutions for the web with a passion for scalability and inn
 **🤔 Mission**: Create technologies that empower people and simplify complex challenges.
 
 **Languages and Tools**:
-PHP, JavaScript, React.js, MySQL, Golang, Docker
+PHP, Wordpress, JavaScript, React.js, MySQL, Golang, Docker
 
 Let’s create something amazing! 🚀
 
